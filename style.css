@@ -7,6 +7,18 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.description{
+    font-size: 23px;
+    font-weight: bold;
+}
+.avis{
+    font-style: italic;
+    font-size: 21px;
+}
+.descriptions{
+    font-size: 15px;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -677,7 +689,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 15px;
 }
 
 .tight-width-whitespace {
