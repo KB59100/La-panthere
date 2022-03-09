@@ -748,7 +748,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: black!important;
     font-size: 20px;
 }
 
@@ -788,15 +788,14 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
-    font-size: 20px;
-    font-weight: bold;
+    color: white!important;
+  
     
 }
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: black!important;
  
 }
 
