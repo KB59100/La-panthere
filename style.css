@@ -789,7 +789,8 @@ h4 {
 }
 
 .tc-white {
-    color: black!important;
+    color: white!important;
+    font-weight: bold;
   
     
 }
